@@ -1,0 +1,2 @@
+create new dummy.txt file centeral repository to local repo
+  using pull command
